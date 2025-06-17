@@ -1,0 +1,21 @@
+# Angular
+node_modules/
+dist/
+.angular/
+
+# Laravel
+/vendor
+.env
+.env.*
+storage/*.key
+/public/storage
+composer.lock
+
+# Logs
+*.log
+
+# IDE / OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
